@@ -24,7 +24,6 @@ Here’s how I completed the task:
 This report was completed as part of the Google Cybersecurity Certificate. It documents how to generate and compare hash values using Linux Bash commands. These tasks are essential for validating data integrity and detecting tampering in cybersecurity workflows.
 
 ## My Contributions
-
 ### Generate hashes for files
 - Used `ls` to list files in the home directory
 - Used `cat file1.txt` and `cat file2.txt` to display contents
