@@ -35,13 +35,13 @@ This report was completed as part of the Google Cybersecurity Certificate. It do
   sha256sum file1.txt >> file1hash
   sha256sum file2.txt >> file2hash
 
-Tools Used
+## Tools Used
 - ls — to list files
 - cat — to read file contents
 - sha256sum — to generate SHA-256 hash values
 - cmp — to compare hash files byte by byte
 
-Reflections
+## Reflections
 - Hashing revealed differences that were not visible in the file contents.
 - Manual comparison of hash values reinforced the importance of integrity checks.
 - This exercise demonstrated how even small changes in data produce entirely different hash values.
